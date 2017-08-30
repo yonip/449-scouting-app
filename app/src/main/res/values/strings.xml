@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Team449Scouting</string>
+    <string name="eventName">Event Name</string>
+    <string name="newMatch">New Match</string>
+    <string name="manualSync">Manual Sync</string>
+    <string name="logout">Logout</string>
+    <string name="revision">Rev. #</string>
+    <string name="login_prompt">Please enter your name:</string>
+    <string name="name_input_prompt">Name</string>
+    <string name="login_confirm">Confirm</string>
+    <string name="are_you">Are you</string>
+    <string name="match_input_tag">Match:</string>
+    <string name="match_number_description">Match number</string>
+    <string name="team_input_tag">Team #:</string>
+    <string name="team_number_description">Team number</string>
+    <string name="home_button_name">Home</string>
+    <string name="auto_button_name">Auto</string>
+    <string name="driver_station_number_description">Driver station number</string>
+    <string name="driver_station_input_tag">DS #:</string>
+    <string name="color_description">Color</string>
+    <string name="color_input_tag">Color:</string>
+    <string name="placeholder_name"><![CDATA[<Name>]]></string>
+    <string name="confirm">Yes</string>
+    <string name="user_name_check_placeholder"><![CDATA[<Name>?]]></string>
+    <string name="user_check_no">No</string>
+    <string name="user_check_back">Home</string>
+    <string name="auto_name">Auto</string>
+    <string name="auto_back">Match</string>
+    <string name="auto_next">Teleop</string>
+</resources>
